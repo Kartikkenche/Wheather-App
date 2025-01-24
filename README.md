@@ -18,7 +18,7 @@ Check the weather conditions for any location with this simple, interactive weat
 
 ## 🌍 Live Demo
 
-You can check out the live demo of this app [here]() (Replace with your demo link if available).
+You can check out the live demo of this app [here](https://kartikkenche.github.io/Wheather-App/).
 
 ## 🔧 How to Run
 
@@ -37,8 +37,8 @@ This project fetches weather data from the [OpenWeatherMap API](https://openweat
 
 ## 📸 Screenshots
 
-![Screenshot]()  
-*Replace with an image of your app if you have one.*
+![Screenshot](![Screenshot 2025-01-24 124935](https://github.com/user-attachments/assets/db60ae91-6a78-48c2-9ff3-855504c09289)
+)  
 
 ## 💡 Future Enhancements
 
