@@ -24,7 +24,7 @@ You can check out the live demo of this app [here](https://kartikkenche.github.i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/kartikkenche/weather-app.git
    ```
 
 2. Open the `index.html` file in your browser to start using the app.
